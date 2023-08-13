@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/KadharTech/static/css/main.ab296f4c.css",
+    "main.js": "/KadharTech/static/js/main.f4675eb4.js",
+    "static/media/APP.webp": "/KadharTech/static/media/APP.9db4b058859f4f9e92f5.webp",
+    "static/media/Game.webp": "/KadharTech/static/media/Game.27d7de4e7d2387d05d6c.webp",
+    "static/media/Quality.webp": "/KadharTech/static/media/Quality.7996c157189ce467a5cc.webp",
+    "static/media/Project.webp": "/KadharTech/static/media/Project.3d1938fc84c77f16d500.webp",
+    "static/media/UI.webp": "/KadharTech/static/media/UI.6557bdb00930d336cb4b.webp",
+    "static/media/work.avif": "/KadharTech/static/media/work.163d57a2186eb07ac0f1.avif",
+    "static/media/WebDevelop.avif": "/KadharTech/static/media/WebDevelop.3f5cdc92e359cba044c3.avif",
+    "static/media/Brand.avif": "/KadharTech/static/media/Brand.41e2a17d1aef3d16d012.avif",
+    "index.html": "/KadharTech/index.html",
+    "main.ab296f4c.css.map": "/KadharTech/static/css/main.ab296f4c.css.map",
+    "main.f4675eb4.js.map": "/KadharTech/static/js/main.f4675eb4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab296f4c.css",
+    "static/js/main.f4675eb4.js"
+  ]
+}
